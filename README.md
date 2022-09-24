@@ -1,8 +1,6 @@
 - 👋 Hola mi nombre es Bryan Solares
 - 👀 Soy un desarrollador con preferencia en desarrollo backend, me he esmerado en estar en constante aprendizaje, a manera autodidacta y atravez de cursos. 
--    Me gustan los retos y poder solucionar problemas de la forma más eficiente posible.
--    
-- 🌱 Actualmente estoy adquiriendo conocimientos para el manejo de React.
+-    Me encantan los retos 🥳 y poder solucionar problemas de la forma más eficiente posible 😊.
 
 Mis conocimiento actuales son:
  * Javascript
@@ -21,6 +19,8 @@ Mis conocimiento actuales son:
 - 📫 Me puedes encontrar con los correos:
   - solares.josue@outlook.com 
   - solares.bryan@outlook.com
+  
+- También puedes visitar mi página Web bryan-solares.com
 
 <!---
 bryan-solares/bryan-solares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
