@@ -7,7 +7,7 @@
 <p align="center"> Me encantan los retos 🥳 y poder solucionar problemas de la forma más eficiente posible 😊. </p>
 <p align="center"> Mi próximo objetivo a corto y  mediado plazo es convertirve en un desarrollador <strong> 🎉🎉🎉🎊🎊 FullStack 🎊🎊🎉🎉🎉</strong>
 
-## Mis conocimiento actuales son:
+## Conocimientos:
  * Javascript
  * Typescript
  * HTML5
@@ -19,6 +19,11 @@
  * Nodejs
  * SQL SERVER
  * Git
+   
+## En proceso de aprendizaje:
+ * React
+ * Tailwind
+ * Graphql
 
 ### Me puedes contactar mediante los correos 📫
   - solares.josue@outlook.com 
