@@ -1,6 +1,6 @@
 <p align="center" width="300">
    <img align="center" width="200" src="" />
-   <h3 align="center">👋 Hola mi nombre es Bryan Solares🏻‍💻</h3>
+   <h3 align="center">👋 Hola mi nombre es Bryan Solares 👋</h3>
 </p>
 
 <p align="center"> 👀 <strong>Soy un desarrollador desarrollo backend</strong>, me he esmerado en estar en constante aprendizaje 🧑‍💻📚 y evolución 👣. </p>
@@ -34,7 +34,7 @@ También puedes visitar mi página Web [Bryan Solares](https://bryan-solares.com
 ### Puede buscarme en mis redes sociales
 [Instagram](https://instagram.com/solares.josue.25)
 
-## SOY UN APASIONADO A LA TECNOLOGÍA, SIEMPRE CON AMBRE DE CONOCIMIENTO
+## SOY UN APASIONADO A LA TECNOLOGÍA, SIEMPRE CON HAMBRE DE CONOCIMIENTO
 
 <!---
 bryan-solares/bryan-solares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
