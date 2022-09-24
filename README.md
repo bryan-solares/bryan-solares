@@ -29,7 +29,7 @@
   - solares.josue@outlook.com 
   - solares.bryan@outlook.com
  
- <p> También puedes visitar mi página Web [Bryan Solares](https://bryan-solares.com) </p>
+También puedes visitar mi página Web [Bryan Solares](https://bryan-solares.com)
 
 ### Puede buscarme en mis redes sociales
 [Instagram](https://instagram.com/solares.josue.25)
