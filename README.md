@@ -20,7 +20,7 @@ Mis conocimiento actuales son:
   - solares.josue@outlook.com 
   - solares.bryan@outlook.com
   
-- También puedes visitar mi página Web [Link text Here](https://bryan-solares.com)
+- También puedes visitar mi página Web [Bryan Solares](https://bryan-solares.com)
 
 <!---
 bryan-solares/bryan-solares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
