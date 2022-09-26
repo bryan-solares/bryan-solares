@@ -34,7 +34,7 @@ También puedes visitar mi página Web [Bryan Solares](https://bryan-solares.com
 ### Puede buscarme en mis redes sociales
 [Instagram](https://instagram.com/solares.josue.25)
 
-### 🛫🚀😌 SOY UN APASIONADO A LA TECNOLOGÍA, SIEMPRE CON HAMBRE DE CONOCIMIENTO 🛫🚀😌
+### 🚀😌 SOY UN APASIONADO A LA TECNOLOGÍA, SIEMPRE CON HAMBRE DE CONOCIMIENTO 🚀😌
 
 <!---
 bryan-solares/bryan-solares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
